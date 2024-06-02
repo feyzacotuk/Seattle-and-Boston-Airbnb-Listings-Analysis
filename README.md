@@ -10,6 +10,7 @@ This project requires Python 3.x and the following libraries:
 You can install these libraries using pip:
 ```sh
 pip install pandas seaborn matplotlib
+```sh
 
 ##  Project Motivation
 
