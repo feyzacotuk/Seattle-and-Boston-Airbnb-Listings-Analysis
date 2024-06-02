@@ -19,3 +19,6 @@ This project aims to analyze Airbnb listings in Seattle and Boston to uncover in
 `listings_seatle.csv`: Dataset containing Airbnb listings information for Seattle.
 `listings.csv`: Dataset containing Airbnb listings information for Boston.
 `compare_seatle_boston`.ipynb: Python script for loading, cleaning, and analyzing the datasets.
+
+## Licensing, Authors, Acknowledgements
+This project was developed by [feyzacotuk]. Special thanks to the data providers, Airbnb, for making this data publicly available. This project is licensed under the MIT License.
