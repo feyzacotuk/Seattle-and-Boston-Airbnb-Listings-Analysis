@@ -23,7 +23,7 @@ The correlation between price and review scores is 0.0551.
 Boston:
 The correlation between price and review scores is 0.0960.
 These results suggest a slight positive correlation between listing price and review scores in both cities. However, the correlation is relatively weak, indicating that price is not a major determinant of review scores.
-You can read the my medium write in this[link] (https://medium.com/@feyzacotukk/understanding-what-influences-airbnb-review-scores-a-tale-of-two-cities-f14276289c68)
+You can read the my medium write in this [link](https://medium.com/@feyzacotukk/understanding-what-influences-airbnb-review-scores-a-tale-of-two-cities-f14276289c68](https://medium.com/@feyzacotukk/optimizing-airbnb-listings-for-higher-review-scores-insights-from-seattle-and-boston-e585a9a6f550))
 ## File Descriptions
 `listings_seatle.csv`: Dataset containing Airbnb listings information for Seattle.
 `listings.csv`: Dataset containing Airbnb listings information for Boston.
